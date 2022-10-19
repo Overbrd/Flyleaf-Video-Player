@@ -1,6 +1,13 @@
+## Flyleaf Video Player using C#, .Net 6.0 and Visual Studio 2022
+
+Run the app and right click in the video player to choose a file for playback.
+
+A sample .mp4 and a sample .mov video file is included in the download in the main folder.
+
 # *Flyleaf v3.4*: Media Player .NET Library for WPF/WinForms (based on FFmpeg/DirectX)
 
-![alt text](Images/Flyleafv3.0.png)
+![video-player-screenshot](https://user-images.githubusercontent.com/10948817/196687448-e7a4814b-0d6b-4160-a5a9-3f8930264fea.jpg)
+
 ---
 
 >Notes<br/>
